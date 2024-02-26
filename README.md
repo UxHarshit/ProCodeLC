@@ -7,23 +7,23 @@
 -   **Features:** [#features](#features)
 -   **Tech Stack:** [#tech-stack](#tech-stack)
 -   **Setup and Installation:** [#setup-and-installation](#setup-and-installation)
-    -   **Android App:** [#android-app](#android-app)
-    -   **Node.js Server:** [#node-js-server](#node-js-server)
+    -   **Android App**
+    -   **Node.js Server**
 -   **Contributing:** [#contributing](#contributing)
 -   **License:** [#license](#license)
 
-**Project Overview**
+### **Project Overview**
 
 This repository contains the source code for ProCodeLC, an Android app that interacts with a Node.js server to provide access to LeetCode premium company questions.
 
-**Features**
+### **Features**
 
 -   **Free access to LeetCode premium company questions**
 -   **Easy and convenient access**
 -   **Question sharing capability**
 -   **(WIP) In-built compiler for coding on Android devices**
 
-**Tech Stack**
+### **Tech Stack**
 
 -   **Android App:**
     -   **Android SDK version:** Android 14 (API level 34)
@@ -32,7 +32,7 @@ This repository contains the source code for ProCodeLC, an Android app that inte
     -   **Node.js:** v21.2.0
     -   **Framework:** Express.js
 
-**Setup and Installation**
+### **Setup and Installation**
 
 **Android App:**
 
@@ -49,10 +49,10 @@ This repository contains the source code for ProCodeLC, an Android app that inte
 3.  Install dependencies: `npm install`.
 4.  Run the server: `npm start` (or `npm run dev`).
 
-**Contributing**
+### **Contributing**
 
 We welcome contributions to this project! Please see the `CONTRIBUTING.md` file for details.
 
-**License**
+### **License**
 
 This project is licensed under the Apache 2.0 license. See the `LICENSE` file for details.
