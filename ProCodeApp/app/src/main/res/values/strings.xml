@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ProCode LC</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="about1"><b>Comprehensive Database:</b> Access a comprehensive database of LeetCode questions asked by top companies.</string>
+    <string name="about2"><b>Free Access:</b> Enjoy free access to all company-specific questions without any restrictions.</string>
+    <string name="about3"><b>Interview Preparation:</b> Prepare for technical interviews by focusing on questions frequently asked by your target companies.</string>
+    <string name="about4"><b>User-Friendly Interface:</b> Navigate through questions easily with a user-friendly and intuitive interface.</string>
+    <string name="t0w">1. <b>Browse Companies:</b> Select your target company from a list of top tech companies.</string>
+    <string name="t1w">2. <b>Access Questions:</b> View a curated list of questions asked by the selected company on LeetCode.</string>
+    <string name="t2w">3. <b>Practice and Learn:</b> Practice coding with real interview questions to enhance your problem-solving skills.</string>
+    <string name="about_the_procode_lc">About the ProCode LC</string>
+    <string name="how_it_works">How It Works</string>
+    <string name="dev_name">Harshit Katheria</string>
+    <string name="developer">Developer</string>
+    <string name="developer_icon_image">Developer Icon image</string>
+    <string name="developer_of_procode">Developer of ProCode</string>
+    <string name="about_skills">Skills : Android Developer, Android Security, Backend Dev, DSA, API, Reverse Engineer</string>
+    <string name="social_media_links">Social Media Links</string>
+    <string name="linkedin">Linkedin</string>
+    <string name="youtube">Youtube</string>
+    <string name="telegram">Telegram</string>
+    <string name="github">Github</string>
+    <string name="item_name">item_name</string>
+    <string name="getCompanyTc">http://192.168.240.230:3000/tc</string>
+    <string name="getCompany">http://192.168.240.230:3000/getCompany</string>
+    <string name="getCompanyInfo">http://192.168.240.230:3000/getCompanyInfo</string>
+    <string name="baseUrl">http://192.168.1.42:3000</string>
+    <string name="title_questions">Questions\n</string>
+    <string name="go_to">Go To</string>
+    <string name="share">Share</string>
+    <string name="search">Search</string>
+    <string name="wip">WIP</string>
+</resources>

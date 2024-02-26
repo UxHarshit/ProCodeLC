@@ -1,0 +1,7 @@
+POST http://localhost:3000/getCompanyInfo
+Content-Type: application/json
+
+{
+  "company": "aetion"
+}
+
