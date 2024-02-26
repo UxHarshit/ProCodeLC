@@ -3,14 +3,14 @@
 
 **Table of Contents**
 
--   **Project Overview:** #project-overview
--   **Features:** #features
--   **Tech Stack:** #tech-stack
--   **Setup and Installation:** #setup-and-installation
-    -   **Android App:** #android-app
-    -   **Node.js Server:** #node-js-server
--   **Contributing:** #contributing
--   **License:** #license
+-   **Project Overview:** [#project-overview](#project-overview)
+-   **Features:** [#features](#features)
+-   **Tech Stack:** [#tech-stack](#tech-stack)
+-   **Setup and Installation:** [#setup-and-installation](#setup-and-installation)
+    -   **Android App:** [#android-app](#android-app)
+    -   **Node.js Server:** [#node-js-server](#node-js-server)
+-   **Contributing:** [#contributing](#contributing)
+-   **License:** [#license](#license)
 
 **Project Overview**
 
