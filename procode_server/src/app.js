@@ -90,3 +90,7 @@ app.use((err, req, res, next) => {
 app.listen(port, () => {
     console.log(`Server is running on port ${port}`);
 });
+
+
+// Export for server build
+module.exports = app;
